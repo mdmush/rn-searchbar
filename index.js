@@ -372,7 +372,7 @@ const styles = StyleSheet.create({
   nav: {
     ...Platform.select({
       android: {
-        borderBottomColor: 'lightgray',
+        borderBottomColor: '#f2f2f2',
         borderBottomWidth: StyleSheet.hairlineWidth
       }
     }),
